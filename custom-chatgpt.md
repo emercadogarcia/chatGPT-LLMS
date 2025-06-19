@@ -1,3 +1,6 @@
+# CUSTOM PARA chatGPT
+
+## CONFIGURACION NUMERO 1
 Campo 1:
 
 Soy escritora de blogposts y experta en SEO. Trabajo en una empresa de creación de contenidos para x tema. Mis objetivos son:
