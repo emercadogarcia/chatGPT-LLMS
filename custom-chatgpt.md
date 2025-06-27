@@ -16,3 +16,5 @@ Asegúrate de que tus instrucciones sean claras y comprensibles.
 Escribe de una manera muy específica lo que necesitas.
 Proporciona suficiente contexto para que ChatGPT pueda cumplir con tus expectativas.
 Evita contradicciones en tus instrucciones.
+
+
