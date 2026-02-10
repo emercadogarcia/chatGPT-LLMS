@@ -56,18 +56,34 @@ providing a subtle, everyday background
 context
 
 #### prompt mejorado con una imagen de referencia
-Amateur candid iPhone photo, same person as the reference image, preserve facial structure, face proportions, skin tone, and identity. 
-A young long-haired man sitting in the backseat of a car, biting into a large burger wrapped in white paper with green “platzi” lettering, held close to his face. 
-Slightly tilted, off-center framing, casual snapshot feeling. 
-Natural iPhone realism with visible skin texture and pores, no beauty filter, no skin smoothing. 
-Soft ambient car interior lighting, muted and slightly desaturated colors, natural imperfections. 
-Wearing a casual cream sweater, loose hair strands framing his face. 
-Subtle everyday background with dashboard and infotainment screen visible. 
-No studio lighting, no cinematic look, no artificial sharpness.
-real photo, not illustration
-not 3d
-not ai-generated look
-authentic iphone snapshot
+Professional-looking iPhone photo, same person as the reference image, strictly preserve facial identity, face structure, proportions, hairstyle, skin tone, and overall appearance from the reference. 
+A man sitting in the backseat of a car, biting into a large burger wrapped in white paper with green “platzi” lettering, held close to his face. 
+Natural, candid composition with slightly off-center framing and a subtle tilt. 
+Realistic iPhone photo style with natural skin texture, visible pores, no beauty filters, no skin smoothing. 
+Soft ambient car interior lighting, balanced exposure, clean yet natural tones. 
+Wearing a light sky-blue short-sleeve shirt. 
+Subtle everyday background including the dashboard and infotainment screen. 
+Professional realism without studio lighting, no cinematic look, no 3D, no AI-generated appearance.
+Do not alter hairstyle or hair volume.
+Do not beautify or idealize the face.
+Maintain real-life facial asymmetry.
+
+### plus para grok para crear video con la imagen generada
+Short realistic iPhone-style video, same person as the reference image, strictly preserve facial identity, face structure, proportions, hairstyle, skin tone, and overall appearance from the reference.
+A man sitting in the backseat of a car while the vehicle is in motion, casually eating a large burger wrapped in white paper with green “platzi” lettering.
+Natural, candid moment with subtle handheld camera movement, slightly off-center framing and a gentle tilt.
+Visible motion outside the windows indicating the car is moving, soft background blur, realistic motion parallax.
+The subject is actively taking bites and chewing the burger in a natural, unscripted way.
+Realistic iPhone video look with natural skin texture, visible pores, no beauty filters, no skin smoothing.
+Soft ambient car interior lighting, balanced exposure, clean and natural tones.
+Wearing a light sky-blue short-sleeve shirt.
+Subtle everyday background including the dashboard and infotainment screen.
+Professional realism without studio lighting, no cinematic effects, no slow motion, no 3D, no AI-generated look.
+Do not alter hairstyle or hair volume.
+Do not beautify or idealize the face.
+Maintain real-life facial asymmetry.
+authentic smartphone video
+raw, everyday footage
 
 ### PROMPT OPTIOMO 2
 Create and image An extremely
