@@ -2,10 +2,7 @@
 
 ## Robusto · Parametrizable · Transaccional · Auditable
 
-Diseña un proceso **ETL empresarial en Postgres**, completamente
-parametrizado, transaccional, auditable y preparado para producción
-financiera, alineado a buenas prácticas de arquitectura y gobierno de
-datos.
+Diseña un proceso **ETL empresarial en Postgres**, completamente parametrizado, transaccional, auditable y preparado para producción financiera, alineado a buenas prácticas de arquitectura y gobierno de datos.
 
 ------------------------------------------------------------------------
 
